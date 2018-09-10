@@ -10,7 +10,33 @@ Android Exploit Suggester proporciona 3 modos de operación:
 + Modo Online: la aplicación se conectará a Internet para consultar las vulnerabilidades. De esta manera, se obtendrán todas las vulnerabilidades existentes. Si no se hace uso de este modo de operación, las vulnerabilidades se consultarán en el repositorio
 local de la herramienta.
 
-# How to run
+## How to run
+    ./android_exploit_suggester 7.1.0 -h
+       _____              .___             .__    .___
+      /  _  \   ____    __| _/______  ____ |__| __| _/
+     /  /_\  \ /    \  / __ |\_  __ \/  _ \|  |/ __ | 
+    /    |    \   |  \/ /_/ | |  | \(  <_> )  / /_/ | 
+    \____|__  /___|  /\____ | |__|   \____/|__\____ | 
+            \/     \/      \/                      \/ 
+
+    ___________              .__         .__  __   
+    \_   _____/__  _________ |  |   ____ |__|/  |_ 
+     |    __)_\  \/  /\____ \|  |  /  _ \|  \   __\
+     |        \>    < |  |_> >  |_(  <_> )  ||  |  
+    /_______  /__/\_ \|   __/|____/\____/|__||__|
+            \/      \/|__|                        
+
+      _________                                    __                
+     /   _____/__ __  ____   ____   ____   _______/  |_  ___________ 
+     \_____  \|  |  \/ ___\ / ___\_/ __ \ /  ___/\   __\/ __ \_  __ \
+     /        \  |  / /_/  > /_/  >  ___/ \___ \  |  | \  ___/|  | \/
+    /_______  /____/\___  /\___  / \___  >____  > |__|  \___  >__|  
+            \/     /_____//_____/      \/     \/            \/      
+    Usage:
+    For automatic mode enter: android_exploit_suggester
+    For manual mode enter: android_exploit_suggester version_of_android
+    For online mode enter: android_exploit_suggester -o
+
 
 ## Basic usage
 
