@@ -1,9 +1,9 @@
 # Android Exploit Suggester
 
-# Project Description
+## Project Description
 Este trabajo consiste en el desarrollo de una herramienta que permita automatizar la fase de explotación de vulnerabilidades para el sistema operativo Android. Concretamente la herramienta consistirá en una base de datos portable que permite obtener toda la información referente a las vulnerabilidades del sistema. El nombre de la herramienta será Android Exploit Suggester.
 
-# Features
+## Features
 Android Exploit Suggester proporciona 3 modos de operación:
 + Modo Manual: el auditor proporciona la versión del sistema para obtener las vulnerabilidades asociadas a dicha versión.
 + Modo Automático: la herramienta obtiene automáticamente la versión del sistema operativo en la que está ejecutando y muestra las vulnerabilidades asociadas para dicha versión.
@@ -12,6 +12,7 @@ local de la herramienta.
 
 # How to run
 
-# Basic usage
+## Basic usage
 
-  ./android_exploit_suggester 7.1.0
+### Modo Automático
+    ./android_exploit_suggester 7.1.0
