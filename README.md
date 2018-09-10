@@ -13,3 +13,59 @@ local de la herramienta.
 # How to run
 
 # Basic usage
+
+  ./android_exploit_suggester 7.1.0
+   _____              .___             .__    .___
+  /  _  \   ____    __| _/______  ____ |__| __| _/
+ /  /_\  \ /    \  / __ |\_  __ \/  _ \|  |/ __ | 
+/    |    \   |  \/ /_/ | |  | \(  <_> )  / /_/ | 
+\____|__  /___|  /\____ | |__|   \____/|__\____ | 
+        \/     \/      \/                      \/ 
+
+___________              .__         .__  __   
+\_   _____/__  _________ |  |   ____ |__|/  |_ 
+ |    __)_\  \/  /\____ \|  |  /  _ \|  \   __\
+ |        \>    < |  |_> >  |_(  <_> )  ||  |  
+/_______  /__/\_ \|   __/|____/\____/|__||__|
+        \/      \/|__|                        
+
+  _________                                    __                
+ /   _____/__ __  ____   ____   ____   _______/  |_  ___________ 
+ \_____  \|  |  \/ ___\ / ___\_/ __ \ /  ___/\   __\/ __ \_  __ \
+ /        \  |  / /_/  > /_/  >  ___/ \___ \  |  | \  ___/|  | \/
+/_______  /____/\___  /\___  / \___  >____  > |__|  \___  >__|  
+        \/     /_____//_____/      \/     \/            \/      
+Manual Mode
+Version selected:  7.1.0
+
+ ---------------
+| CVE-2017-0845 |
+ ---------------
+	Vesion affected: 5.0 5.0.1 5.0.2 5.1 5.1.0 5.1.1 6.0 6.0.1 7.0 7.1.0 7.1.1 7.1.2 
+	Score:  5
+	Description:  A denial of service vulnerability in the Android framework (syncstorageengine). Product: Android. Versions: 5.0.2, 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2. Android ID: A-35028827.
+	Ref:
+		https://source.android.com/security/bulletin/pixel/2017-11-01
+*********************************************************
+
+ ---------------
+| CVE-2017-0835 |
+ ---------------
+	Vesion affected: 6.0 6.0.1 7.0 7.1.0 7.1.1 7.1.2 8.0 
+	Score:  9.3
+	Description:  A remote code execution vulnerability in the Android media framework (libmpeg2). Product: Android. Versions: 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID: A-63316832.
+	Ref:
+		http://www.securityfocus.com/bid/101717
+		https://source.android.com/security/bulletin/2017-11-01
+*********************************************************
+
+ ---------------
+| CVE-2017-0834 |
+ ---------------
+	Vesion affected: 6.0 6.0.1 7.0 7.1.0 7.1.1 7.1.2 8.0 
+	Score:  9.3
+	Description:  A remote code execution vulnerability in the Android media framework (libmpeg2). Product: Android. Versions: 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID: A-63125953.
+	Ref:
+		http://www.securityfocus.com/bid/101717
+		https://source.android.com/security/bulletin/2017-11-01
+*********************************************************
