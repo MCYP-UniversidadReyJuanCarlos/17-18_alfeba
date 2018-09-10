@@ -14,7 +14,6 @@ local de la herramienta.
 
 ## Basic usage
 
-### Modo Automático
     ./android_exploit_suggester 7.1.0
        _____              .___             .__    .___
       /  _  \   ____    __| _/______  ____ |__| __| _/
