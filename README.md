@@ -5,7 +5,7 @@ Este proyecto ha consistido en el desarrollo de una herramienta para la automati
 
 Existen diferentes herramientas de esta tipología para sistemas operativos de ordenadores y servidores como son Linux y Windows, pero no existen para sistemas móviles. En este caso el objetivo de la herramienta será el sistema operativo para móviles Android. La herramienta ha sido bautizada con el nombre de Android Exploit Suggester.
 
-Android Exploit Suggester proporciona facilmente las vulnerabilidades existentes para una versión objetivo de Android. La persona que ejecuta la herramienta puede introducir manualmente la versión de la cual quiere conocer las vulnerabilidades, o dejar que la herramienta detecta automáticamente la versión. Conocer las vulnerabilidades de un sistema permite saber facilmente en que estado se encuentra para así poder protegerlo frente a posibles ataques.
+Android Exploit Suggester proporciona facilmente las vulnerabilidades existentes para una versión objetivo de Android. La persona que ejecuta la herramienta puede introducir manualmente la versión de la cual quiere conocer las vulnerabilidades, o dejar que la herramienta detecte automáticamente la versión. Conocer las vulnerabilidades de un sistema permite saber facilmente en que estado se encuentra para así poder protegerlo frente a posibles ataques.
 
 Para generar la información de las vulnerabilidades se han usado las siguientes fuentes:
 
