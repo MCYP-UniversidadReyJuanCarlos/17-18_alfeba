@@ -1,7 +1,9 @@
 # Android Exploit Suggester
 
 ## Project Description
-Este trabajo consiste en el desarrollo de una herramienta que permita automatizar la fase de explotación de vulnerabilidades para el sistema operativo Android. Concretamente la herramienta consistirá en una base de datos portable que permite obtener toda la información referente a las vulnerabilidades del sistema. El nombre de la herramienta será Android Exploit Suggester.
+Este proyecto ha consistido en el desarrollo de una herramienta para la automatización de la explotación de vulnerabilidades. La herramienta consiste en un Exploit Suggester que es un tipo de herramienta que nos da la información correspondiente a las diferentes vulnerabilidades existentes en un determinado sistema operativo. Esta información va desde el CVE, versiones afectadas, puntuación, hasta enlaces a exploits para la explotación de las vulnerabilidades.
+
+Existen diferentes herramientas de esta tipología para sistemas operativos de ordenadores y servidores como son Linux y Windows, pero no existen para sistemas móviles. En este caso el objetivo de la herramienta será el sistema operativo para móviles Android. La herramienta ha sido bautizada con el nombre de Android Exploit Suggester.
 
 ## Features
 Android Exploit Suggester proporciona 3 modos de operación:
@@ -9,6 +11,8 @@ Android Exploit Suggester proporciona 3 modos de operación:
 + Modo Automático: la herramienta obtiene automáticamente la versión del sistema operativo en la que está ejecutando y muestra las vulnerabilidades asociadas para dicha versión.
 + Modo Online: la aplicación se conectará a Internet para consultar las vulnerabilidades. De esta manera, se obtendrán todas las vulnerabilidades existentes. Si no se hace uso de este modo de operación, las vulnerabilidades se consultarán en el repositorio
 local de la herramienta.
+
+La herramienta ha sido desarrollada en el lenguaje de programación Go.
 
 ## How to run
     ./android_exploit_suggester 7.1.0 -h
@@ -73,3 +77,8 @@ local de la herramienta.
         Ref:
             https://source.android.com/security/bulletin/pixel/2017-11-01
     *********************************************************
+    
+    
+## Video Demo
+
+[![Watch the video]](https://vimeo.com/289135101)
