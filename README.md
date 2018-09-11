@@ -81,5 +81,5 @@ La herramienta ha sido desarrollada en el lenguaje de programación Go.
     
 ## Video Demo
 
-[![asciicast](https://vimeo.com/289135101.png)](https://vimeo.com/289135101)
+[![asciicast](https://i.vimeocdn.com/video/724712048_260x146.jpg)](https://vimeo.com/289135101)
 
